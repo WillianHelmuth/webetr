@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+
+        <title>Eu vou morrer!!!</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="f2.css" type="text/css">
+
+    </head>
+    <body>
+        <div>
+        <form>
+            Nome: <br>
+            <input type="text" placeholder="Nome"> <input type="text" placeholder="Sobrenome">
+        </form>
+        <form>
+            Nome de usuário <br>
+            <input type="text" size = "44">
+        </form>
+        <form>
+            Crie uma senha <br>
+            <input type="password" size = "44">
+        </form>
+        <form>
+            Repita a senha <br>
+            <input type="password" size = "44">
+        </form>
+        <form>
+            Data de nascimento <br>
+            <input type="number" max="2">
+            <input type="month">
+            <input type="number">
+        </form>
+        </div>
+    </body>
+
+</html>
