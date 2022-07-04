@@ -1,0 +1,17 @@
+div{
+    position: absolute;
+    background-color: rgb(219, 219, 219);
+    width: 30%;
+    right: 30px;
+    top: 45px;
+    padding-top: 15px;
+    padding-left: 28px;
+    padding-right: 10px;
+    padding-bottom: 24px;
+}
+form{
+    padding: 6px;
+}
+input{
+    padding: 4px;
+}
